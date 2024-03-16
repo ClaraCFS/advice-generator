@@ -1,0 +1,11 @@
+@media(min-width:768px){
+    .caixa-conselho{
+        padding-inline: 40px;
+        width: 370px;
+    }
+
+    .caixa-conselho p{
+        font-size: 20px;
+        padding: 20px;
+    }
+}
